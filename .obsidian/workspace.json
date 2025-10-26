@@ -6,7 +6,6 @@
       {
         "id": "080aca861339880d",
         "type": "tabs",
-        "dimension": 47.34375,
         "children": [
           {
             "id": "18eee56f0d031a0f",
@@ -25,27 +24,6 @@
           },
           {
             "id": "3116e37edee9b2a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "homl.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "homl"
-            }
-          }
-        ],
-        "currentTab": 1,
-        "stacked": true
-      },
-      {
-        "id": "a48e52e5a387edc8",
-        "type": "tabs",
-        "dimension": 52.65625000000001,
-        "children": [
-          {
-            "id": "e0e0498c484cd214",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -99,12 +77,23 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "3ab7536c05a71d66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0e78d4a720e34bf8",
@@ -123,6 +112,69 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "08b541a0627ea859",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "homl/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "2a5a6ac02f4e1986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "homl/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "2171886861fd9b2d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e46d42c1cac6fcb1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "homl/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
           }
         ]
       }
@@ -132,13 +184,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "graph:Open graph view": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "691396a5ff9abc63",
+  "active": "18eee56f0d031a0f",
   "lastOpenFiles": [
     "Notes/Day 1.1.md",
     "homl/README.md",
