@@ -43,4 +43,3 @@
      2. if too close: can stuck in local minima
      3. if too far: can stop at saddle points.
 
-# Chapter 1

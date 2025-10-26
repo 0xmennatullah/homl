@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "080aca861339880d",
+        "id": "511cddd8bb463b20",
         "type": "tabs",
         "children": [
           {
-            "id": "18eee56f0d031a0f",
+            "id": "15c34ee70aa23d94",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "homl.pdf",
+                "file": "homl/Notes/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for homl"
+              "title": "Backlinks for Chapter 1"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "homl.pdf",
+                "file": "homl/Notes/Chapter 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from homl"
+              "title": "Outgoing links from Chapter 1"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "homl.pdf",
+                "file": "homl/Notes/Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of homl"
+              "title": "Outline of Chapter 1"
             }
           }
         ]
@@ -180,11 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18eee56f0d031a0f",
+  "active": "15c34ee70aa23d94",
   "lastOpenFiles": [
+    "homl/Notes/Chapter 1.md",
+    "homl.pdf",
+    "homl/Notes/Day 1.1.md",
     "homl/README.md",
     "Notes/Day 1.1.md",
-    "homl/Notes/Day 1.1.md",
     "homl/Notes/image.png",
     "homl/Notes/image-2.png",
     "homl/Notes/image-1.png",
@@ -200,7 +202,6 @@
     "Notes",
     "Notebooks/Day 1.1.ipynb",
     "Notebooks",
-    "homl.pdf",
     "iTi-Alawady-ML/Notes/Day 1.1.md"
   ]
 }
